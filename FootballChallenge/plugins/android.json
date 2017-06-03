@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "cordova-plugin-datepicker": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "597359579523",
+            "PACKAGE_NAME": "com.ionicframework.Arina"
+        }
+    },
+    "dependent_plugins": {}
+}
